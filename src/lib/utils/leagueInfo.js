@@ -8,6 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Home page for the standard 3 league of FantasyBallers</p>
+  <p>A Power Ranking will be display after the future draft</p>
 `;
 
 /*   STEP 3   */
